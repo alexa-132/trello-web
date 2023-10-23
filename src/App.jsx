@@ -19,7 +19,7 @@ function App() {
       <HomeIcon color="success"/>
       <HomeIcon color="action"/>
       <HomeIcon color="disabled"/>
-      <HomeIcon sx={{color: pink [500]}}/>
+      <HomeIcon sx={{ color: pink [500] }}/>
 
 
     </>
